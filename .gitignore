@@ -3,3 +3,7 @@
 ################################################################################
 
 /Prj/vs215/SerialPort/.vs/SerialPort/v14
+/VS2015/SerialPort/.vs/SerialPort/v14
+/VS2015/SerialPort/Debug
+/VS2015/SerialPort/SerialPort/Debug
+*.db
