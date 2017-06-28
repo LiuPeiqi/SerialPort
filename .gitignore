@@ -7,3 +7,6 @@
 /VS2015/SerialPort/Debug
 /VS2015/SerialPort/SerialPort/Debug
 *.db
+/VS2015/SerialPort/Release
+/VS2015/SerialPort/SerialPort/Release/SerialPort.tlog
+/VS2015/SerialPort/SerialPort/Release
